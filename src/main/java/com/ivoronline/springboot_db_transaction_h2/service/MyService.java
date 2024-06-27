@@ -4,7 +4,6 @@ import com.ivoronline.springboot_db_transaction_h2.repository.MyRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
-import java.sql.SQLException;
 
 @Service
 public class MyService {
